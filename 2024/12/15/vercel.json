@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "/dog-killed-by-ai",
+        "permanent": true
+      }
+    ]
+  }
+  
